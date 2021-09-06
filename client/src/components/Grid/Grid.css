@@ -1,0 +1,31 @@
+.header {
+  height: 150px;
+  background-color: orange;
+}
+.mid1 {
+  height: 200px;
+  background-color: blue;
+}
+.mid2 {
+  height: 200px;
+  background-color: lightseagreen;
+}
+.mid3 {
+  height: 600px;
+  background-color: orangered;
+}
+.mid4 {
+  height: 600px;
+  background-color: black;
+}
+.bmid {
+  position: absolute;
+  height: 320px;
+  background-color: lightseagreen;
+  margin-left: -450px;
+  margin-top: 260px;
+}
+.footer {
+  height: 150px;
+  background-color: maroon;
+}
